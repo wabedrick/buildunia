@@ -1,0 +1,234 @@
+[
+    {
+      "id": 1,
+      "name": "Lenovo",
+      "image_url":"/src/assets/img/laptop1.jpeg",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "ram": 4,
+      "core": "Intel Core i7",
+      "rom": 520,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "7th"
+    },
+    {
+      "id": 2,
+      "name": "Dell",
+      "image_url":"/src/assets/img/laptop2.png",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "ram": 8,
+      "core": "Intel Core i7",
+      "rom": "1T",
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "11th"
+    },
+    {
+      "id": 3,
+      "name": "HP",
+      "image_url":"/src/assets/img/laptop3.jpeg",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "ram": 4,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "5th"
+    },
+    {
+      "id": 4,
+      "name": "Toshiba",
+      "image_url":"/src/assets/img/laptop4.jpeg",
+      "type": [
+        "Fire"
+      ],
+      "ram": 4,
+      "core": "Intel Core i3",
+      "rom": 320,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "3th"
+    },
+    {
+      "id": 5,
+      "name": "Mac Book",
+      "image_url":"/src/assets/img/laptop8.jpeg",
+      "type": [
+        "Fire"
+      ],
+      "ram": 8,
+      "core": "Intel Core i7",
+      "rom": 520,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+    {
+      "id": 6,
+      "name": "HP",
+      "image_url":"/src/assets/img/laptop5.jpeg",
+      "type": [
+        "Fire",
+        "Flying"
+      ],
+      "ram": 4,
+      "core": "Intel Core i7",
+      "rom": 520,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "7th"
+    },
+    {
+      "id": 7,
+      "name": "Dell",
+      "image_url":"/src/assets/img/laptop6.jpeg",
+      "type": [
+        "Water"
+      ],
+      "ram": 4,
+      "core": "Intel Core i7",
+      "rom": 225,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "7th"
+    },
+    {
+      "id": 8,
+      "name": "Samsung",
+      "image_url":"/src/assets/img/laptop7.png",
+      "type": [
+        "Water"
+      ],
+      "ram": 4,
+      "core": "Intel Core i7",
+      "rom": 520,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "7th"
+    },
+    {
+      "id": 9,
+      "name": "Alcer",
+      "image_url":"/src/assets/img/laptop9.jpeg",
+      "type": [
+        "Water"
+      ],
+      "ram": 4,
+      "core": "Intel Core i7",
+      "rom": 520,
+      "rom_type": "SSD",
+      "system_type": "64-bit Operating System",
+      "generation": "7th"
+    },
+    {
+      "id": 10,
+      "name": "Samsung",
+      "image_url":"/src/assets/img/laptop10.jpeg",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+
+    {
+      "id": 11,
+      "name": "Samsung",
+      "image_url":"/src/assets/img/laptop3.jpeg",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+    {
+      "id": 12,
+      "name": "Toshiba",
+      "image_url":"/src/assets/img/laptop1.jpeg",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+
+    {
+      "id": 13,
+      "name": "Alcer",
+      "image_url":"/src/assets/img/laptop3.jpeg",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+
+    {
+      "id": 14,
+      "name": "Dell",
+      "image_url":"/src/assets/img/laptop7.png",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+
+    {
+      "id": 15,
+      "name": "Mac Book",
+      "image_url":"/src/assets/img/laptop8.jpeg",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    },
+    {
+      "id": 16,
+      "name": "Samsung",
+      "image_url":"/src/assets/img/laptop7.png",
+      "type": [
+        "Bug"
+      ],
+      "ram": 8,
+      "core": "Intel Core i5",
+      "rom": 520,
+      "rom_type": "HDD",
+      "system_type": "64-bit Operating System",
+      "generation": "9th"
+    }
+  ]
